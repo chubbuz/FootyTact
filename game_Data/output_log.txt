@@ -1,0 +1,714 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     445 MB
+    Driver:   8.15.10.2119
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Acer\Documents\Soccer\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\Soccer\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\Soccer\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\Soccer\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\Soccer\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\Soccer\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\Soccer\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\Soccer\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.633 seconds
+Platform assembly: C:\Users\Acer\Documents\Soccer\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Acer\Documents\Soccer\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 149.447510 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2e44 -> priority: 1 
+tactial main script is called
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Soccer Engine started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+This machine is a server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkInfo.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Movement Ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+tactial session ended: Sending data to server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending to data to SAME machine
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at tactialMain.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:49156} time {302618}, last rec time {300614} rtt {2} timeout {2000}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
